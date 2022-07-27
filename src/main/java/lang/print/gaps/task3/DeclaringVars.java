@@ -4,6 +4,6 @@ public class DeclaringVars {
     public static void main(String[] args) {
         
            int a=10,b=10,c=10;
-           System.out.print(c);
+           System.out.print(c + "\n");
     }
 }
